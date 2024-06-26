@@ -15,5 +15,6 @@ namespace NIcolasCasamenAPI.NCModels
         public string service_version { get; set; }
         public string title { get; set; }
         public string url { get; set; }
+
     }
 }

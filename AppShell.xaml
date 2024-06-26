@@ -5,11 +5,11 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:views="clr-namespace:NIcolasCasamenAPI.NCViews"
     Shell.FlyoutBehavior="Disabled"
-    Title="NIcolasCasamenAPI">
+    Title="Bienvenido a mi APP">
 
     <ShellContent
-        Title="Home"
+        Title="Genera tu Imagen"
         ContentTemplate="{DataTemplate views:NCApodPage}"
-        Route="MainPage" />
+        Route="NCApodPage" />
 
 </Shell>
