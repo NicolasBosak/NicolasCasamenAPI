@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NIcolasCasamenAPI", "NIcolasCasamenAPI.csproj", "{7552D4CA-DA6F-46CE-A434-230B3F9B6DF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7552D4CA-DA6F-46CE-A434-230B3F9B6DF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7552D4CA-DA6F-46CE-A434-230B3F9B6DF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7552D4CA-DA6F-46CE-A434-230B3F9B6DF5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7552D4CA-DA6F-46CE-A434-230B3F9B6DF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7552D4CA-DA6F-46CE-A434-230B3F9B6DF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7552D4CA-DA6F-46CE-A434-230B3F9B6DF5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B9AF1E8-4A02-4E6E-B9D3-1D42317FC34A}
+	EndGlobalSection
+EndGlobal
