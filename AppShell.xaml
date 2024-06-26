@@ -3,13 +3,13 @@
     x:Class="NIcolasCasamenAPI.AppShell"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    xmlns:local="clr-namespace:NIcolasCasamenAPI"
+    xmlns:views="clr-namespace:NIcolasCasamenAPI.NCViews"
     Shell.FlyoutBehavior="Disabled"
     Title="NIcolasCasamenAPI">
 
     <ShellContent
         Title="Home"
-        ContentTemplate="{DataTemplate local:MainPage}"
+        ContentTemplate="{DataTemplate views:NCApodPage}"
         Route="MainPage" />
 
 </Shell>

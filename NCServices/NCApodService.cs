@@ -14,7 +14,7 @@ namespace NIcolasCasamenAPI.NCServices
         {
             NCApod dto = null;
             HttpResponseMessage response;
-            string requestUrl = $"https://api.nasa.gov/planetary/apod?date={dt.ToString("yyyy-MMdd")}&api_key=…";
+            string requestUrl = $"https://api.nasa.gov/planetary/apod?date={dt.ToString("yyyy-MMdd")}&api_key=DxmgcnhZXliUyKEXC1Es8EH2Y1NFkgy3vmJmFPwL";
             try
             {
                 HttpRequestMessage request = new HttpRequestMessage(HttpMethod.Get, requestUrl);

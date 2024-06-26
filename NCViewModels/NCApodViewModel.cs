@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace NIcolasCasamenAPI.NCViewModels
 {
-    internal class NCApodViewModel : INotifyPropertyChanged
+    public class NCApodViewModel : INotifyPropertyChanged
     {
         public event PropertyChangedEventHandler PropertyChanged;
         private void NotifyPropertyChanged([CallerMemberName] String propertyName = "")
